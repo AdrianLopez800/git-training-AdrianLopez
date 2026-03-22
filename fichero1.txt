@@ -1,5 +1,2 @@
-Primera línea
-Hola esto es una prueba
-Gracias por ver
-Otra línea más desde Intellij
-Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora, AdrianLopez
+Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora,
+AdrianLopez
